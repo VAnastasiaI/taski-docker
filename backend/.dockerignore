@@ -1,0 +1,8 @@
+**/.env
+.env
+**/.git
+**/.vscode
+**/node_modules
+venv
+db.sqlite3
+.idea
